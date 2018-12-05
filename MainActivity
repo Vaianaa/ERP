@@ -12,10 +12,4 @@ protected void onCreate(Bundle savedInstanceState){
 
 }
 
-<span style="color: green"> Some green text </span>
-<font color="green"> Some green text </font>
 
-RED APPLE (&#x1F34E;): 🍎
-GREEN APPLE (&#x1F34F;): 🍏
-BLUE HEART (&#x1F499;): 💙
-GREEN HEART (&#x1F49A;): 💚
